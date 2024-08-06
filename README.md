@@ -10,11 +10,12 @@
 </table>
 
 ##  🎖️Achievements:
-- Attained a maximum Coding Ninjas contest rating of 2756, hence being in the top 3%
+- Was among the top 198 teams to qualify for the round 2 out of 25000 in the Tally Code Brewers Hackathon
 - Qualified among the top 300 candidates in **Code Uncode**, advancing to the regionals of the competition
-- Solved more than 100 problems on **Leetcode** covering various topics of DSA
+- Solved more than 200 problems on **Leetcode** covering various topics of DSA
 - 2⭐coder at **Codechef**
-- Attained an All India Rank of 8659/104307 in the **Codekaze** DSA competition.
+- Pupil in **Codeforces**
+- Master in Coding Ninjas
 
 # 💻 Tech Stack:<div align="center">
 <div align="center">
