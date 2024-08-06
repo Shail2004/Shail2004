@@ -1,7 +1,7 @@
 <table>
 	<tr>
 		<td>
-			<li> 👨‍💻 I am an Information Technology Student at Dwarkadas J. Sanghvi College of Engineering. (Second Year)
+			<li> 👨‍💻 I am an Information Technology Student at Dwarkadas J. Sanghvi College of Engineering. (Third Year)
 			<li> 🤝 I am always up for collabs and fun projects.
 			<li> ✉️ Dm me for the same.
 			<li> 🛌 My major Programming languages: Java, C, C++, JavaScript, Python
