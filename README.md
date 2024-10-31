@@ -10,6 +10,7 @@
 </table>
 
 ##  🎖️Achievements:
+- Winner of IdeaHub 2.0 : The Space Edition organized by NMIMS 
 - Was among the top 193 teams to qualify for the round 2 out of 17000 in the Tally Code Brewers Hackathon
 - Qualified among the top 300 candidates out of 5000 in **Code Uncode**, advancing to the regionals of the competition
 - Solved more than 200 problems on **Leetcode** covering various topics of DSA
