@@ -11,7 +11,7 @@
 
 ##  🎖️Achievements:
 - Winner of IdeaHub 2.0 : The Space Edition organized by NMIMS.
-- Was among the top 193 teams to qualify for the round 2 out of 17000 in the Tally Code Brewers Hackathon.
+-  Qualified among the top 10 finalist teams out of 17000 in the Tally Code Brewers 2024 Hackathon.
 - Secured a **top 50** rank among 3,000 participants in the finals of **Code Uncode 2025**, Mumbai's largest Competitve Programming Event.
 - Solved more than 300 problems on **Leetcode** covering various topics of DSA.
 - 3⭐coder at **Codechef**.
